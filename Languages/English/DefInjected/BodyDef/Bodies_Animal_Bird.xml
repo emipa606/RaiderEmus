@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Emu.label>emu</Emu.label>
+  <Emu.corePart.parts.4.customLabel>left lung</Emu.corePart.parts.4.customLabel>
+  <Emu.corePart.parts.5.customLabel>right lung</Emu.corePart.parts.5.customLabel>
+  <Emu.corePart.parts.6.customLabel>left kidney</Emu.corePart.parts.6.customLabel>
+  <Emu.corePart.parts.7.customLabel>right kidney</Emu.corePart.parts.7.customLabel>
+  <Emu.corePart.parts.9.parts.0.parts.1.customLabel>left eye</Emu.corePart.parts.9.parts.0.parts.1.customLabel>
+  <Emu.corePart.parts.9.parts.0.parts.2.customLabel>right eye</Emu.corePart.parts.9.parts.0.parts.2.customLabel>
+  <Emu.corePart.parts.10.customLabel>left leg</Emu.corePart.parts.10.customLabel>
+  <Emu.corePart.parts.10.parts.0.customLabel>left foot</Emu.corePart.parts.10.parts.0.customLabel>
+  <Emu.corePart.parts.11.customLabel>right leg</Emu.corePart.parts.11.customLabel>
+  <Emu.corePart.parts.11.parts.0.customLabel>right foot</Emu.corePart.parts.11.parts.0.customLabel>
+
+
+</LanguageData>

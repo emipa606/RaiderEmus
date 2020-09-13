@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- torso for animals -->
+  <BodyPartDef>
+    <defName>BodyEmu</defName>
+    <label>body</label>
+    <hitPoints>40</hitPoints>
+    <permanentInjuryChanceFactor>0.08</permanentInjuryChanceFactor>
+    <skinCovered>true</skinCovered>
+    <alive>false</alive>
+    <solid>true</solid>
+    <bleedRate>0</bleedRate>
+  </BodyPartDef>
+</Defs>
