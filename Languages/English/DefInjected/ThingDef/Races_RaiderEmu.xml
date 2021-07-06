@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RaiderEmu.label>Raider Emu</RaiderEmu.label>
   <RaiderEmu.description>An Emu redesignated to serve its owner's purpose. Hard to kill due to its thick plated armour. Runs on steel and cold hatred which allows it to dominate the battlefield.</RaiderEmu.description>
   <RaiderEmu.tools.0.label>claws</RaiderEmu.tools.0.label>
   <RaiderEmu.tools.2.label>head</RaiderEmu.tools.2.label>
-
-
 </LanguageData>
