@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Raider Emus (Continued)</name>
   <packageId>Mlie.RaiderEmus</packageId>
@@ -12,26 +12,30 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Jdalt40s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1385727205
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/RaiderEmus][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 The Raider Emus
 
 
-&quot;Once the Pirates invented the Raiderpedes in the year 4473, they became suddenly aware of the trail of destruction they left in every raid and the abnormal amount of Emus caught up in the crossfire. One great leader thought to reuse their left over refined steel to make them stronger, better and faster in 4488.
-The Emu wars have begun again...&quot;
+"Once the Pirates invented the Raiderpedes in the year 4473, they became suddenly aware of the trail of destruction they left in every raid and the abnormal amount of Emus caught up in the crossfire. One great leader thought to reuse their left over refined steel to make them stronger, better and faster in 4488.
+The Emu wars have begun again..."
 
 Features!
 -Adds in a new type of Emu which spawns in pirate raids
@@ -54,7 +58,7 @@ Thanks to:
 -And everybody else on Discord!
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -65,4 +69,3 @@ Thanks to:
 [/list]
 </description>
 </ModMetaData>
-
