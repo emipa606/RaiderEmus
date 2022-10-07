@@ -1,30 +1,21 @@
 # RaiderEmus
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Jdalt40s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1385727205
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RaiderEmus]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 The Raider Emus
 
 
-&quot;Once the Pirates invented the Raiderpedes in the year 4473, they became suddenly aware of the trail of destruction they left in every raid and the abnormal amount of Emus caught up in the crossfire. One great leader thought to reuse their left over refined steel to make them stronger, better and faster in 4488.
-The Emu wars have begun again...&quot;
+"Once the Pirates invented the Raiderpedes in the year 4473, they became suddenly aware of the trail of destruction they left in every raid and the abnormal amount of Emus caught up in the crossfire. One great leader thought to reuse their left over refined steel to make them stronger, better and faster in 4488.
+The Emu wars have begun again..."
 
 Features!
 -Adds in a new type of Emu which spawns in pirate raids
@@ -47,7 +38,7 @@ Thanks to:
 -And everybody else on Discord!
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -57,6 +48,7 @@ Thanks to:
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
