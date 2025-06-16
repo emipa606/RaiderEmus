@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Raider Emu -->
+  <RaiderEmu.label>Raider Emu</RaiderEmu.label>
+  <!-- EN: An Emu redesignated to serve its owner's purpose. Hard to kill due to its thick plated armour. Runs on steel and cold hatred which allows it to dominate the battlefield. -->
+  <RaiderEmu.description>An Emu redesignated to serve its owner's purpose. Hard to kill due to its thick plated armour. Runs on steel and cold hatred which allows it to dominate the battlefield.</RaiderEmu.description>
+  <!-- EN: claws -->
+  <RaiderEmu.tools.claws.label>claws</RaiderEmu.tools.claws.label>
+  <!-- EN: head -->
+  <RaiderEmu.tools.head.label>head</RaiderEmu.tools.head.label>
+</LanguageData>

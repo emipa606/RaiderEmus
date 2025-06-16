@@ -4,7 +4,7 @@
     <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <statBases>
       <PsychicSensitivity>0</PsychicSensitivity>
-      <ToxicSensitivity>0</ToxicSensitivity>
+      <ToxicResistance>1</ToxicResistance>
       <Flammability>0</Flammability>
       <ComfyTemperatureMin>-100</ComfyTemperatureMin>
       <ComfyTemperatureMax>250</ComfyTemperatureMax>
@@ -30,6 +30,7 @@
       <ArmorRating_Sharp>0.4</ArmorRating_Sharp>
       <MeatAmount>0</MeatAmount>
       <LeatherAmount>0</LeatherAmount>
+      <Wildness>0.95</Wildness>
     </statBases>
     <tools>
       <li>
@@ -91,7 +92,6 @@
       <baseBodySize>1</baseBodySize>
       <baseHealthScale>2</baseHealthScale>
       <baseHungerRate>0.1</baseHungerRate>
-      <wildness>0.95</wildness>
       <lifeExpectancy>10</lifeExpectancy>
       <useMeatFrom>Cassowary</useMeatFrom>
       <useLeatherFrom>Cassowary</useLeatherFrom>

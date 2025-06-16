@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Raider Emu -->
+  <RaiderEmu.label>Raider Emu</RaiderEmu.label>
+  <RaiderEmu.labelFemale />
+  <RaiderEmu.labelFemalePlural />
+  <RaiderEmu.labelMale />
+  <RaiderEmu.labelMalePlural />
+  <RaiderEmu.labelPlural />
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: emu -->
+  <Emu.label>emu</Emu.label>
+  <!-- EN: left lung -->
+  <Emu.corePart.parts.left_lung.customLabel>left lung</Emu.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Emu.corePart.parts.right_lung.customLabel>right lung</Emu.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Emu.corePart.parts.left_kidney.customLabel>left kidney</Emu.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Emu.corePart.parts.right_kidney.customLabel>right kidney</Emu.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Emu.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Emu.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Emu.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Emu.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Emu.corePart.parts.left_leg.customLabel>left leg</Emu.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Emu.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Emu.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Emu.corePart.parts.right_leg.customLabel>right leg</Emu.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Emu.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Emu.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>
