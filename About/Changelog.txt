@@ -1,5 +1,8 @@
 # Changelog for RaiderEmus
 
+1.7.0 - Mod updated for 1.7 and passed autotests
+
+
 1.6.1 - Emus should now be present in all prirate factions
 
 

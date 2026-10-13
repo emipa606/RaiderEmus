@@ -52,4 +52,4 @@ Thanks to:
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RaiderEmus?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2228254776) | tags: pirates
+[![Image](https://img.shields.io/github/v/release/emipa606/RaiderEmus?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2228254776) | pirates
